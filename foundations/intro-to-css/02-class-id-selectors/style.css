@@ -1,0 +1,24 @@
+p
+{
+    background-color: rgb(221, 187, 187);
+}
+*
+{
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+.pri
+{
+    font-size: 20px;    
+}
+.seg{
+    color: blue;
+    font-size: 36px;
+}
+.terc{
+    font-size: 24px;
+}
+.cuarto{
+    background-color: rgb(169, 229, 169);
+    font-size: 24px;
+    font-weight: bold;
+}
