@@ -1,0 +1,12 @@
+.compartir
+{
+    font-size: 28px;
+    font-family:'Helvetica','Times New Roman', sans-serif;
+}
+#boton1{
+    background-color: black;
+    color: aliceblue;
+}
+#boton2{
+    background-color: yellow;    
+}
